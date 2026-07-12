@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/SakshamHere123/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0151-reverse-words-in-a-string](https://github.com/SakshamHere123/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/SakshamHere123/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SakshamHere123/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/SakshamHere123/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/SakshamHere123/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/SakshamHere123/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
