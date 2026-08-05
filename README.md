@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/SakshamHere123/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/SakshamHere123/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/SakshamHere123/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0796-rotate-string](https://github.com/SakshamHere123/LeetCode/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SakshamHere123/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/SakshamHere123/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Counting
@@ -148,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SakshamHere123/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/SakshamHere123/LeetCode/tree/master/1539-kth-missing-positive-number) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/SakshamHere123/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
