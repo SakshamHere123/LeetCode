@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SakshamHere123/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/SakshamHere123/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/SakshamHere123/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0876-middle-of-the-linked-list](https://github.com/SakshamHere123/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SakshamHere123/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/SakshamHere123/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
