@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/SakshamHere123/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SakshamHere123/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SakshamHere123/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0410-split-array-largest-sum](https://github.com/SakshamHere123/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0503-next-greater-element-ii](https://github.com/SakshamHere123/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SakshamHere123/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SakshamHere123/LeetCode/tree/master/0704-binary-search) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/SakshamHere123/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SakshamHere123/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SakshamHere123/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## String
@@ -129,10 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SakshamHere123/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/SakshamHere123/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SakshamHere123/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0410-split-array-largest-sum](https://github.com/SakshamHere123/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/SakshamHere123/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/SakshamHere123/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/SakshamHere123/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/SakshamHere123/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SakshamHere123/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SakshamHere123/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0410-split-array-largest-sum](https://github.com/SakshamHere123/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SakshamHere123/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/SakshamHere123/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/SakshamHere123/LeetCode/tree/master/0875-koko-eating-bananas) |
