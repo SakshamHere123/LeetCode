@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SakshamHere123/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/SakshamHere123/LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/SakshamHere123/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/SakshamHere123/LeetCode/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/SakshamHere123/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0135-candy](https://github.com/SakshamHere123/LeetCode/tree/master/0135-candy) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/SakshamHere123/LeetCode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/SakshamHere123/LeetCode/tree/master/0148-sort-list) |
 | [0451-sort-characters-by-frequency](https://github.com/SakshamHere123/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/SakshamHere123/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SakshamHere123/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/SakshamHere123/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/SakshamHere123/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
