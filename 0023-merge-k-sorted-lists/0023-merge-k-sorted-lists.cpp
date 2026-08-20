@@ -1,45 +1,26 @@
 class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-
-        // Min heap storing ListNode pointers
-        priority_queue<
-            ListNode*,
-            vector<ListNode*>,
-            function<bool(ListNode*, ListNode*)>
-        > pq(
-            [](ListNode* a, ListNode* b) {
-                return a->val > b->val;
-            }
-        );
-
-        // Put first node of every list into heap
-        for (auto head : lists) {
-            if (head != nullptr) {
-                pq.push(head);
+        priority_queue<int,vector<int>,greater<int>> pq;
+        int n=lists.size();
+        for(int i=0;i<n;i++){
+            ListNode *temp=lists[i];
+            while(temp!=NULL){
+                pq.push(temp->val);
+                temp=temp->next;
             }
         }
-
-        // Dummy node helps us build the answer
-        ListNode dummy(0);
-        ListNode* tail = &dummy;
-
-        while (!pq.empty()) {
-
-            // Get smallest node
-            ListNode* node = pq.top();
+        ListNode* start=new ListNode(-1);
+        ListNode* x=start;
+        while(!pq.empty()){
+            ListNode* y=new ListNode(pq.top());
+            x->next=y;
+            x=x->next;
             pq.pop();
 
-            // Add it to answer
-            tail->next = node;
-            tail = tail->next;
 
-            // Push next node from the same list
-            if (node->next != nullptr) {
-                pq.push(node->next);
-            }
-        }
-
-        return dummy.next;
+         }
+       
+        return start->next;
     }
 };
