@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/SakshamHere123/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/SakshamHere123/LeetCode/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/SakshamHere123/LeetCode/tree/master/0704-binary-search) |
+| [0846-hand-of-straights](https://github.com/SakshamHere123/LeetCode/tree/master/0846-hand-of-straights) |
 | [0875-koko-eating-bananas](https://github.com/SakshamHere123/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/SakshamHere123/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SakshamHere123/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/SakshamHere123/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/SakshamHere123/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/SakshamHere123/LeetCode/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/SakshamHere123/LeetCode/tree/master/0846-hand-of-straights) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SakshamHere123/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/SakshamHere123/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SakshamHere123/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/SakshamHere123/LeetCode/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/SakshamHere123/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/SakshamHere123/LeetCode/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/SakshamHere123/LeetCode/tree/master/0846-hand-of-straights) |
 | [1903-largest-odd-number-in-string](https://github.com/SakshamHere123/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/SakshamHere123/LeetCode/tree/master/0148-sort-list) |
 | [0451-sort-characters-by-frequency](https://github.com/SakshamHere123/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/SakshamHere123/LeetCode/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/SakshamHere123/LeetCode/tree/master/0846-hand-of-straights) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
