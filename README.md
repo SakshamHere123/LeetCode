@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/SakshamHere123/LeetCode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/SakshamHere123/LeetCode/tree/master/0148-sort-list) |
+| [0295-find-median-from-data-stream](https://github.com/SakshamHere123/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/SakshamHere123/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/SakshamHere123/LeetCode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/SakshamHere123/LeetCode/tree/master/0846-hand-of-straights) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SakshamHere123/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/SakshamHere123/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/SakshamHere123/LeetCode/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/SakshamHere123/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/SakshamHere123/LeetCode/tree/master/0621-task-scheduler) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/SakshamHere123/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/SakshamHere123/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/SakshamHere123/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/SakshamHere123/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0876-middle-of-the-linked-list](https://github.com/SakshamHere123/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SakshamHere123/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Monotonic Stack
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/SakshamHere123/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/SakshamHere123/LeetCode/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SakshamHere123/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
@@ -268,5 +272,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/SakshamHere123/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SakshamHere123/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
