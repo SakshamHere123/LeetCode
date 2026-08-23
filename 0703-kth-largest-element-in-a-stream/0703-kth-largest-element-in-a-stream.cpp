@@ -3,7 +3,7 @@ public:
     priority_queue<int,vector<int>,greater<int>> pq;
     int x;
     KthLargest(int k, vector<int>& nums) {
-        x=k;
+        this->x=k;
         for(auto it : nums){
             pq.push(it);
             if(pq.size()>k){
