@@ -18,7 +18,7 @@ public:
         vector<int> dc = {0,0,-1,1};
         while(!q.empty() && fresh>0){
             int size = q.size();
-            for(int i = 0; i< size;i++){
+            for(int k = 0; k< size;k++){
                 auto[r,c]=q.front();
                 q.pop();
                 for(int i = 0;i<4;i++){
