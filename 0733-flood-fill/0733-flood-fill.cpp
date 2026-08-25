@@ -1,32 +1,32 @@
 class Solution {
-public:
-    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
+private:
+    void dfs(int r, int c, int initialColor, int newColor, vector<vector<int>>& image) {
         int n = image.size();
         int m = image[0].size();
-        queue<pair<int,int>> q;
-        vector<vector<int>> ans;
-        vector<int> vis(n);
-        int x = image[sr][sc];
-        if(x==color)return image;
-        q.push({sr,sc});
-        image[sr][sc]=color;
-        vector<int> dr = {0,0,-1,1};
-        vector<int> dc = {1,-1,0,0};
-        while(!q.empty()){
-            int size = q.size();
-            for(int i = 0;i<size;i++){
-                auto[r,c] = q.front();
-                q.pop();
-                for(int j = 0 ; j< 4; j++){
-                    int nr = r + dr[j];
-                    int nc = c + dc[j];
-                    if(nr>=0 && nr<n && nc>=0 && nc<m && image[nr][nc]==x){
-                        q.push({nr,nc});
-                        image[nr][nc]=color;
-                    }
-                }
-            }
+
+        // Base conditions: Out of bounds or pixel is not the initial color
+        if (r < 0 || r >= n || c < 0 || c >= m || image[r][c] != initialColor) {
+            return;
         }
+
+        // Color current pixel
+        image[r][c] = newColor;
+
+        // Traverse 4 directions
+        dfs(r + 1, c, initialColor, newColor, image);
+        dfs(r - 1, c, initialColor, newColor, image);
+        dfs(r, c + 1, initialColor, newColor, image);
+        dfs(r, c - 1, initialColor, newColor, image);
+    }
+
+public:
+    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
+        int initialColor = image[sr][sc];
+        
+        // Critical check: Avoid infinite recursion / stack overflow
+        if (initialColor == color) return image;
+
+        dfs(sr, sc, initialColor, color, image);
         return image;
     }
 };
