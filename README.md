@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SakshamHere123/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SakshamHere123/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SakshamHere123/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/SakshamHere123/LeetCode/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/SakshamHere123/LeetCode/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/SakshamHere123/LeetCode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/SakshamHere123/LeetCode/tree/master/0733-flood-fill) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SakshamHere123/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SakshamHere123/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/SakshamHere123/LeetCode/tree/master/0207-course-schedule) |
+| [0542-01-matrix](https://github.com/SakshamHere123/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/SakshamHere123/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/SakshamHere123/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/SakshamHere123/LeetCode/tree/master/0994-rotting-oranges) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/SakshamHere123/LeetCode/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SakshamHere123/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/SakshamHere123/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0542-01-matrix](https://github.com/SakshamHere123/LeetCode/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/SakshamHere123/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 ## Greedy
 |  |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SakshamHere123/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SakshamHere123/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/SakshamHere123/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/SakshamHere123/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/SakshamHere123/LeetCode/tree/master/0994-rotting-oranges) |
 | [1901-find-a-peak-element-ii](https://github.com/SakshamHere123/LeetCode/tree/master/1901-find-a-peak-element-ii) |
