@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SakshamHere123/LeetCode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/SakshamHere123/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/SakshamHere123/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/SakshamHere123/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SakshamHere123/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/SakshamHere123/LeetCode/tree/master/0057-insert-interval) |
@@ -373,4 +374,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/SakshamHere123/LeetCode/tree/master/0785-is-graph-bipartite) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/SakshamHere123/LeetCode/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/SakshamHere123/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
