@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SakshamHere123/LeetCode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/SakshamHere123/LeetCode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/SakshamHere123/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/SakshamHere123/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/SakshamHere123/LeetCode/tree/master/0055-jump-game) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SakshamHere123/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SakshamHere123/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/SakshamHere123/LeetCode/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/SakshamHere123/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0347-top-k-frequent-elements](https://github.com/SakshamHere123/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/SakshamHere123/LeetCode/tree/master/0355-design-twitter) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/SakshamHere123/LeetCode/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/SakshamHere123/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/SakshamHere123/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SakshamHere123/LeetCode/tree/master/0200-number-of-islands) |
@@ -377,9 +380,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/SakshamHere123/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/SakshamHere123/LeetCode/tree/master/0051-n-queens) |
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/SakshamHere123/LeetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/SakshamHere123/LeetCode/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/SakshamHere123/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
